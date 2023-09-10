@@ -41,13 +41,8 @@ Futuramente
 
 # Equipe
 >Colocar aqui uma imagem da equipe com a logo do grupo.
->...
 >![image](https://github.com/lerbalist/GESTEC/assets/142409605/7a392f4c-98df-4875-85f1-0e1879feee75)
 
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
-</p>
 
 # Objetivo do Projeto
 >Descrever aqui os objetivos desse projeto
