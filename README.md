@@ -43,8 +43,10 @@ Futuramente
 # ![image](https://github.com/lerbalist/GESTEC/assets/142409605/7a392f4c-98df-4875-85f1-0e1879feee75)
 
 
+
 # Objetivo do Projeto
 >A CCM vamos trazer uma melhoria na Gestão de Estoque, afim de solucionar os problemas de comunicação e falta de peças com automatização. Propor uma organização mais eficiente com controle em tempo real.
+
 
 # Funcionalidades e Demonstrações das Sprints
 
@@ -69,6 +71,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 
+
 ## Tecnologias Utilizadas
 ### Produto 
 > Descreva aqui a parte do MVP referente a cada Sprint
@@ -85,12 +88,14 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API (? ^)
 
+
 # Cronograma das Sprints
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### Cronograma das Sprints / [clique aqui](https://trello.com/b/qrFQ26PS)
+
 
 
 ## Backlog do produto
