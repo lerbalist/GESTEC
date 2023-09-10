@@ -25,13 +25,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status|
 |------|--------|------|
 |Kick Off | 31/08/2023 | concluido|
-|01|  11/10/2023| a fazer |
+|01|  11/10/2023| em progresso |
 |02| 08/11/2023 | a fazer| 
 |03| 29/11/2023 |a fazer |
 |Feira de Soluções| 12/12/2023 |a fazer |
 
-
-> Possíveis status: a fazer, em progresso e concluido
 
 # Micro Certificações
 Futuramente
@@ -46,12 +44,15 @@ Futuramente
 
 
 # Objetivo do Projeto
->Trazer uma melhoria na Gestão de Estoque, afim de solucionar os problemas de comunicação e falta de peças com automatização. Propor uma organização mais eficiente com controle em tempo real.
+>A CCM vamos trazer uma melhoria na Gestão de Estoque, afim de solucionar os problemas de comunicação e falta de peças com automatização. Propor uma organização mais eficiente com controle em tempo real.
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-> Custo / Logística / Projeto / Melhorias estoque interno e externo
+- Custo
+- Logística
+- Projeto
+- Melhorias estoque interno e externo
 
 
 ## Sprint 2
@@ -72,40 +73,52 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ### Produto 
 > Descreva aqui a parte do MVP referente a cada Sprint
 
-### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+|Sprint|MVP|
+|-|-|
+|Sprint 1| |
+|Sprint 2| |
+|Sprint 3| |
+
+### Tecnologias Específicas/Apoio
+> Liste aqui todas as tecnologias utilizadas para colcluir as entregas (AQUI PODEMOS USAR UMA IMAGEM COM TODOS OS LOGOS DE PROGRAMAS QUE PRECISAMOS USAR)
   
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+> Liste todas as tecnologias referentes aos processos da API (? ^)
 
 # Cronograma das Sprints
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[clique aqui](https://trello.com/b/qrFQ26PS)
+#### Cronograma das Sprints / [clique aqui](https://trello.com/b/qrFQ26PS)
 
 
 ## Backlog do produto
 >Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
 
+|Requisitos Funcionais|Requisitos Não Funcionais|
+|-|-|
+| | |
+| | |
 
 ## Burndown
 >Colocar aqui Burndown do projeto
 
 
-## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+## Sprint 1 - Concepção/Apresentação do Projeto
+- [x] Divisão de Tarefas
+- [ ] Coleta de Dados 
+- [ ] Apresentação em PPT
 
 ## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+- [ ] .
+- [ ] .
+- [ ] .
       
 ## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-      
-## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-
+- [ ] .   
+- [ ] .
+- [ ] .
 
 # Competências desenvolvidas
 > Descrever aqui as competências adquiridas e desenvolvidas pela equipe
@@ -116,11 +129,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trello | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Excel  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| PowerPoint | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Scrum | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
@@ -131,11 +144,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trabalho em Equipe | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Responsabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
@@ -144,6 +157,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner| Leticia Alves | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-alves-55016426b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lerbalist)|
+|Scrum Master| Mariana Gárcia | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GMARIANAMARITNS)|
+|Team Member| Ana Beatriz | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Bianca Carvalho | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member| Hibathemark Sabino | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/hibasabino)|
+|Team Member| Rebeca Porfirio | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rebecapfr)|
