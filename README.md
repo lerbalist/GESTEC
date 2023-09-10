@@ -108,7 +108,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 1 - Concepção/Apresentação do Projeto
 - [x] Divisão de Tarefas
-- [ ] Coleta de Dados 
+- [x] Coleta de Dados 
 - [ ] Apresentação em PPT
 
 ## Sprint 2 - Desenvolvimento do Projeto
