@@ -1,8 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
-
-Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Projeto GESTEC Soluções Empresariais
 
 # Índice
 
@@ -45,7 +41,7 @@ Futuramente
 
 
 # Objetivo do Projeto
->A CCM vamos trazer uma melhoria na Gestão de Estoque, afim de solucionar os problemas de comunicação e falta de peças com automatização. Propor uma organização mais eficiente com controle em tempo real.
+>A bancada (nome) da CCM queremos trazer uma melhoria na Gestão de Estoque, afim de solucionar os problemas de comunicação e falta de peças com automatização. Propondo uma organização mais eficiente com controle em tempo real.
 
 
 # Funcionalidades e Demonstrações das Sprints
