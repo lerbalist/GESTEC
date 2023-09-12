@@ -80,10 +80,10 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ### Tecnologias Específicas/Apoio
 > Liste aqui todas as tecnologias utilizadas para colcluir as entregas (AQUI PODEMOS USAR UMA IMAGEM COM TODOS OS LOGOS DE PROGRAMAS QUE PRECISAMOS USAR)
-  
+  ![image](https://github.com/lerbalist/GESTEC/assets/142409605/83da1c1c-1218-4cfd-9a6b-4a8fcf686733)
+
 ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API (? ^)
-
 
 # Cronograma das Sprints
 
