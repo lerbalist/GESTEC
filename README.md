@@ -74,7 +74,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 |Sprint|MVP|
 |-|-|
-|Sprint 1| |
+|Sprint 1| Projeto em 3D de novo Layout que irá otimizar o tempo e espaço. |
 |Sprint 2| |
 |Sprint 3| |
 
@@ -87,10 +87,10 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 # Cronograma das Sprints
 
-## Cronograma
+## Cronograma / Burndown
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontrar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints / [clique aqui](https://trello.com/b/qrFQ26PS)
+#### Cronograma das Sprints / Gráfico Burndown / [clique aqui](https://fatecspgov.sharepoint.com/:x:/r/sites/GESTEC-SoluesEmpresariais/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B45ef208e-0f47-4589-bf7a-1c7f138b3bd0%7D&wdOrigin=TEAMS-WEB.teamsSdk.openFilePreview&wdExp=TEAMS-CONTROL&web=1)
 
 
 
@@ -99,11 +99,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 |Requisitos Funcionais|Requisitos Não Funcionais|
 |-|-|
-| | |
-| | |
-
-## Burndown
->Colocar aqui Burndown do projeto
+| Layout novo |  |
+|  | |
 
 
 ## Sprint 1 - Concepção/Apresentação do Projeto
