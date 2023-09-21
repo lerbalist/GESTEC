@@ -50,11 +50,11 @@ O primeiro passo para iniciar este projeto é apresentar as dificuldades das qua
 
 
 ## Sprint 2
->Layout em 3D do estoque
+>Apresentação da proposta do programa do estoque e custos das melhorias de estoque.
 
 
 ## Sprint 3
->Sistema programado do estoque
+>Sistema programado do estoque (somente os eixos).
 
 
 ## Apresentação final (se necessario)
