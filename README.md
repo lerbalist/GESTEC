@@ -1,5 +1,3 @@
-# Projeto GESTEC Soluções Empresariais
-
 # Índice
 
 * [Projeto (API)](#projeto-api)
@@ -81,10 +79,10 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 # Cronograma das Sprints
 
-## Cronograma / Burndown
+## Cronograma 
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontrar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints / Gráfico Burndown : [clique aqui](https://fatecspgov.sharepoint.com/:x:/r/sites/GESTEC-SoluesEmpresariais/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B45ef208e-0f47-4589-bf7a-1c7f138b3bd0%7D&wdOrigin=TEAMS-WEB.teamsSdk.openFilePreview&wdExp=TEAMS-CONTROL&web=1)
+#### Gráfico Burndown : [clique aqui](https://fatecspgov.sharepoint.com/:x:/r/sites/GESTEC-SoluesEmpresariais/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B45ef208e-0f47-4589-bf7a-1c7f138b3bd0%7D&wdOrigin=TEAMS-WEB.teamsSdk.openFilePreview&wdExp=TEAMS-CONTROL&web=1)
 
 
 
