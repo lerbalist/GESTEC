@@ -40,7 +40,7 @@ Futuramente
 
 
 # Objetivo do Projeto
->Buuscamos trazer uma melhoria na Gestão de Estoque, afim de solucionar os problemas de comunicação e falta de peças com automatização. Propondo uma organização mais eficiente com controle em tempo real.
+Buscamos trazer uma melhoria na Gestão de Estoque, afim de solucionar os problemas de comunicação e falta de peças com automatização. Propondo uma organização mais eficiente com controle em tempo real.
 
 
 # Funcionalidades e Demonstrações das Sprints
@@ -117,7 +117,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] .
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
+> Além do próprio trabalho em equipe, a divisão de tarefas nos traz autonomia para conclusão e comprometimento para entrega. Temos o Trello ferramenta nova para alguns, que nos serve de apoio diário para atribuição das tarefas.
+> Desenvolver um projeto usando tecnologia, nos traz também sempre um conhecimento novo nesta aréa, como um site não muito explorado antes ou uma ferramenta que não havia sido utilizada até então.
+> A cada Sprint desenvolvemos mais de si e do projeto, crescendo pessoalmente e em grupo também.
 
 ## Hard Skill (saber tecnológico)
 <details>
