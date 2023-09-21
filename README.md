@@ -46,7 +46,7 @@ Buscamos trazer uma melhoria na Gestão de Estoque, afim de solucionar os proble
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-> O primeiro passo para iniciar este projeto é apresentar as dificuldades das quais encontramos, como uma má organização no estoque e uma falta de comunicação com o mesmo. Nesta etapa iremos explorar a melhor solução que encontramos para tal: Uma Otimização no Sistema de Estoque, que seria basicamente uma planilha de excel associada a códigos de barras. Além disso, também gostaríamos de propor um novo Layout para o estoque no local, como um controle melhor das ferramentas que são mais usadas e uma forma diferente de guardá-las. 
+O primeiro passo para iniciar este projeto é apresentar as dificuldades das quais encontramos, como uma má organização no estoque e uma falta de comunicação com o mesmo. Nesta etapa iremos explorar a melhor solução que encontramos para tal: Uma Otimização no Sistema de Estoque, que seria basicamente uma planilha de excel associada a códigos de barras. Além disso, também gostaríamos de propor um novo Layout para o estoque no local, como um controle melhor das ferramentas que são mais usadas e uma forma diferente de guardá-las. 
 
 
 ## Sprint 2
@@ -60,7 +60,6 @@ Buscamos trazer uma melhoria na Gestão de Estoque, afim de solucionar os proble
 ## Apresentação final (se necessario)
 Vídeo com a apresentação final da API do "semestre/ano"
 >Colocar o vídeo da apresentação
-
 
 
 
@@ -96,7 +95,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 |-|-|
 | Layout novo | Esboço em 3D |
 | Planilha Excel associada a Código de Barras | Imagens ilustrativas |
-| | |
+| Custos | Valores |
+
 
 
 ## Sprint 1 - Concepção/Apresentação do Projeto
