@@ -5,7 +5,7 @@
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
-* [Cronograma das Sprints / Burndown](#cronograma-das-sprints)
+* [Cronograma das Sprints](#cronograma-das-sprints)
 * [Backlog do Produto](#backlog-do-produto)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
