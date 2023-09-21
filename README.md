@@ -117,9 +117,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] .
 
 # Competências desenvolvidas
-> Além do próprio trabalho em equipe, a divisão de tarefas nos traz autonomia para conclusão e comprometimento para entrega. Temos o Trello ferramenta nova para alguns, que nos serve de apoio diário para atribuição das tarefas.
-> Desenvolver um projeto usando tecnologia, nos traz também sempre um conhecimento novo nesta aréa, como um site não muito explorado antes ou uma ferramenta que não havia sido utilizada até então.
-> A cada Sprint desenvolvemos mais de si e do projeto, crescendo pessoalmente e em grupo também.
+Além do próprio trabalho em equipe, a divisão de tarefas nos traz autonomia para conclusão e comprometimento para entrega. Temos o Trello ferramenta nova para alguns, que nos serve de apoio diário para atribuição das tarefas.
+Desenvolver um projeto usando tecnologia, nos traz também sempre um conhecimento novo nesta aréa, como um site não muito explorado antes ou uma ferramenta que não havia sido utilizada até então.
+A cada Sprint desenvolvemos mais de si e do projeto, crescendo pessoalmente e em grupo também.
 
 ## Hard Skill (saber tecnológico)
 <details>
