@@ -7,9 +7,8 @@ Projeto GESTEC Soluções Empresariais
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
-* [Cronograma das Sprints](#cronograma-das-sprints)
+* [Cronograma das Sprints / Burndown](#cronograma-das-sprints)
 * [Backlog do Produto](#backlog-do-produto)
-* [Burndown](#burndown)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
@@ -41,16 +40,13 @@ Futuramente
 
 
 # Objetivo do Projeto
->A bancada (nome) da CCM queremos trazer uma melhoria na Gestão de Estoque, afim de solucionar os problemas de comunicação e falta de peças com automatização. Propondo uma organização mais eficiente com controle em tempo real.
+>Buuscamos trazer uma melhoria na Gestão de Estoque, afim de solucionar os problemas de comunicação e falta de peças com automatização. Propondo uma organização mais eficiente com controle em tempo real.
 
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-- Custo
-- Logística
-- Projeto
-- Melhorias estoque interno e externo
+O primeiro passo para iniciar este projeto é apresentar as dificuldades das quais encontramos, como uma má organização no estoque e uma falta de comunicação com o mesmo. Nesta etapa iremos explorar a melhor solução que encontramos para tal: Uma Otimização no Sistema de Estoque, que seria basicamente uma planilha de excel associada a códigos de barras. Além disso, também gostaríamos de propor um novo Layout para o estoque no local, como um controle melhor das ferramentas que são mais usadas e uma forma diferente de guardá-las. 
 
 
 ## Sprint 2
@@ -79,7 +75,6 @@ Vídeo com a apresentação final da API do "semestre/ano"
 |Sprint 3| |
 
 ### Tecnologias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas (AQUI PODEMOS USAR UMA IMAGEM COM TODOS OS LOGOS DE PROGRAMAS QUE PRECISAMOS USAR)
   ![image](https://github.com/lerbalist/GESTEC/assets/142409605/83da1c1c-1218-4cfd-9a6b-4a8fcf686733)
 
 ### Mindset Digital
@@ -90,7 +85,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ## Cronograma / Burndown
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontrar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints / Gráfico Burndown / [clique aqui](https://fatecspgov.sharepoint.com/:x:/r/sites/GESTEC-SoluesEmpresariais/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B45ef208e-0f47-4589-bf7a-1c7f138b3bd0%7D&wdOrigin=TEAMS-WEB.teamsSdk.openFilePreview&wdExp=TEAMS-CONTROL&web=1)
+#### Cronograma das Sprints / Gráfico Burndown : [clique aqui](https://fatecspgov.sharepoint.com/:x:/r/sites/GESTEC-SoluesEmpresariais/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B45ef208e-0f47-4589-bf7a-1c7f138b3bd0%7D&wdOrigin=TEAMS-WEB.teamsSdk.openFilePreview&wdExp=TEAMS-CONTROL&web=1)
 
 
 
@@ -99,14 +94,17 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 |Requisitos Funcionais|Requisitos Não Funcionais|
 |-|-|
-| Layout novo |  |
-|  | |
+| Layout novo | Esboço em 3D |
+| Planilha Excel associada a Código de Barras | Imagens ilustrativas |
+| | |
 
 
 ## Sprint 1 - Concepção/Apresentação do Projeto
 - [x] Divisão de Tarefas
-- [x] Coleta de Dados 
+- [x] Coleta de Dados
+- [x] Esboço 3D
 - [ ] Apresentação em PPT
+      
 
 ## Sprint 2 - Desenvolvimento do Projeto
 - [ ] .
@@ -128,8 +126,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Trello | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Excel  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trello | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Excel  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | PowerPoint | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Scrum | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
