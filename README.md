@@ -1,3 +1,8 @@
+<br id="topo">
+
+<h1 align="center"> FATEC Profº Jessen Vidal, SJC - 2º Semestre GPI </h1>
+<h2 align="center">Gestec - Soluções Empresariais </h2>
+
 # Índice
 
 * [Projeto (API)](#projeto-api)
@@ -67,11 +72,12 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 |Sprint|MVP|
 |-|-|
-|Sprint 1| Projeto em 3D de novo Layout que irá otimizar o tempo e espaço. |
+|Sprint 1| Projeto em 3D de novo Layout que irá otimizar o tempo e espaço e uma otimização no sistema de estoque. |
 |Sprint 2| |
 |Sprint 3| |
 
 ### Tecnologias Específicas/Apoio
+Até o momento.
   ![image](https://github.com/lerbalist/GESTEC/assets/142409605/83da1c1c-1218-4cfd-9a6b-4a8fcf686733)
 
 ### Mindset Digital
