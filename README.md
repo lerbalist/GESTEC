@@ -74,7 +74,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+
 
 |Sprint|MVP|
 |-|-|
