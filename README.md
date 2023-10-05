@@ -16,15 +16,22 @@
 * [Autores](#autores)
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+Esse projeto é uma parceria da Faculdade de Tecnologia de São José dos Campos – Professor Jessen Vidal com o Centro de Competência em Manufatura do Instituto Tecnológico de Aeronáutica (CCM – ITA) a fim de desenvolver as habilidades dos alunos da graduação na entrega de produtos com valor tangível por meio dos métodos ágeis.
+
+Atualmente, com o avanço da tecnologia, a necessidade de respostas rápidas, alterações a todo momento e requisitos em constante evolução, fez com que as metodologias ágeis ganhem espaço no desenvolvimento dos projetos, pois, as abordagens tradicionais não atendem mais as atuais necessidades. Para essa parceria, foi escolhida a metodologia Scrum que tem foco no gerenciamento da equipe, organização de processos, execução de tarefas e etapas.
+
+Dessa forma, a metodologia Scrum será usada para superar os desafios enfrentados pelo CCM – ITA que incluem dificuldades nas gestões: de estoque, de qualidade e segurança, de documentos e de manutenção de máquina. Dessa maneira, os alunos do Curso Superior Tecnólogo em Gestão da Produção Industrial tiveram a oportunidade de utilizar os conceitos aprendidos na graduação para implementar sistemas de melhoria para enfrentar os desafios de gestão propostos.
+
+Assim sendo, foi realizada uma visita técnica ao CCM – ITA pela equipe Gestec Soluções Empresariais, onde a equipe decidiu desenvolver um projeto visando a gestão de estoque e inventário. Portanto, o objetivo desse projeto é a otimização do estoque, desde seus aspectos físicos, como também, a otimização do sistema.
 
 
-Sprint | Previsão | Status| Histórico|
+
+
+
+Sprints | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 31/08/2023 | concluido| [Ver Relatório]() | 
-|01 | 11/10/2023 | em progresso | [Ver Relatório]() | 
+|01 | 11/10/2023 | em progresso | [Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%201/documento/S1%20-%20Relatorio.docx) | 
 |02|  08/11/2023| a fazer |[Ver Relatório]() | 
 |03| 29/11/2023 | a fazer|[Ver Relatório]() | 
 |Feira de Soluções| 12/12/2023 |a fazer |[Ver Relatório]() | 
@@ -43,21 +50,20 @@ Futuramente
 
 
 # Objetivo do Projeto
-Buscamos trazer uma melhoria na Gestão de Estoque, afim de solucionar os problemas de comunicação e falta de peças com automatização. Propondo uma organização mais eficiente com controle em tempo real.
+O estudo de caso foi realizado pela equipe, onde foram verificadas dificuldades na organização do estoque – em que o principal empecilho encontrado foi a comunicação entre os colaboradores que realizam a manutenção no maquinário do CCM. Dessa forma, a equipe optou por explorar soluções na otimização no Sistema de Estoque, com um sistema de automatização de uma planilha excel associada a um leitor de código de barras e a implementação de um novo layout de estoque, que como objetivo trará mais segurança e facilidade aos colaboradores do CCM.
 
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-O primeiro passo para iniciar este projeto é apresentar as dificuldades das quais encontramos, como uma má organização no estoque e uma falta de comunicação com o mesmo. Nesta etapa iremos explorar a melhor solução que encontramos para tal: Uma Otimização no Sistema de Estoque, que seria basicamente uma planilha de excel associada a códigos de barras. Além disso, também gostaríamos de propor um novo Layout para o estoque no local, como um controle melhor das ferramentas que são mais usadas e uma forma diferente de guardá-las. 
+>O primeiro passo para iniciar este projeto é apresentar as dificuldades das quais encontramos, como uma má organização no estoque e uma falta de comunicação com o mesmo. Nesta etapa iremos explorar a melhor solução que encontramos para tal: Uma Otimização no Sistema de Estoque, que seria basicamente uma planilha de excel associada a códigos de barras. Além disso, também gostaríamos de propor um novo Layout para o estoque no local, como um controle melhor das ferramentas que são mais usadas e uma forma diferente de guardá-las. 
 
 
 ## Sprint 2
->Apresentação da proposta do programa do estoque e custos das melhorias de estoque.
-
+>apresentação dos custos levantados na otimização do estoque e detalhamento do sistema de automatização.
 
 ## Sprint 3
->Sistema programado do estoque (somente os eixos).
+>Entrega do sistema automatizado do estoque – trabalho realizado apenas sobre os eixos utilizados para manutenção.
 
 
 ## Apresentação final (se necessario)
