@@ -30,7 +30,7 @@ Assim sendo, foi realizada uma visita técnica ao CCM – ITA pela equipe Gestec
 
 Sprints | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 31/08/2023 | concluido| [Ver Relatório]() | 
+|Kick Off | 31/08/2023 | concluido|  | 
 |01 | 11/10/2023 | em progresso | [Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%201/documento/S1%20-%20Relatorio.pdf) | 
 |02|  08/11/2023| a fazer |[Ver Relatório]() | 
 |03| 29/11/2023 | a fazer|[Ver Relatório]() | 
@@ -82,12 +82,12 @@ Vídeo com a apresentação final da API do "semestre/ano"
 |Sprint 2| |
 |Sprint 3| |
 
-### Tecnologias Específicas/Apoio
+### Tecnologias Específicas/Apoio 
 Até o momento.
-  ![image](https://github.com/lerbalist/GESTEC/assets/142409605/83da1c1c-1218-4cfd-9a6b-4a8fcf686733)
 
-### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API (? ^)
+![image](https://github.com/lerbalist/GESTEC/assets/142409605/92f972a7-aec1-4c4f-bcaf-55de30293df9)
+
+
 
 # Cronograma das Sprints
 
@@ -111,8 +111,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 1 - Concepção/Apresentação do Projeto
 - [x] Divisão de Tarefas
-- [x] Coleta de Dados
+- [x] Coleta de Dados 
 - [x] Esboço 3D
+- [x] Relatorio da Sprint
 - [ ] Apresentação em PPT
       
 
@@ -142,7 +143,7 @@ A cada Sprint desenvolvemos mais de si e do projeto, crescendo pessoalmente e em
 | Excel  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | PowerPoint | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Scrum | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
 
