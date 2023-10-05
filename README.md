@@ -31,7 +31,7 @@ Assim sendo, foi realizada uma visita técnica ao CCM – ITA pela equipe Gestec
 Sprints | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 31/08/2023 | concluido| [Ver Relatório]() | 
-|01 | 11/10/2023 | em progresso | [Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%201/documento/S1%20-%20Relatorio.docx) | 
+|01 | 11/10/2023 | em progresso | [Ver Relatório](https://www.canva.com/design/DAFwadNbER0/view) | 
 |02|  08/11/2023| a fazer |[Ver Relatório]() | 
 |03| 29/11/2023 | a fazer|[Ver Relatório]() | 
 |Feira de Soluções| 12/12/2023 |a fazer |[Ver Relatório]() | 
