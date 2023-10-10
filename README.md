@@ -58,6 +58,7 @@ O estudo de caso foi realizado pela equipe, onde foram verificadas dificuldades 
 ## Sprint 1
 >O primeiro passo para iniciar este projeto é apresentar as dificuldades das quais encontramos, como uma má organização no estoque e uma falta de comunicação com o mesmo. Nesta etapa iremos explorar a melhor solução que encontramos para tal: Uma Otimização no Sistema de Estoque, que seria basicamente uma planilha de excel associada a códigos de barras. Além disso, também gostaríamos de propor um novo Layout para o estoque no local, como um controle melhor das ferramentas que são mais usadas e uma forma diferente de guardá-las. 
 
+Video Apresentação [clique aqui](https://fatecspgov-my.sharepoint.com/:v:/g/personal/leticia_brito7_fatec_sp_gov_br/EROMZdPxyNxMta9G2utG_J0BNxRU4g7L9sc_jmsOHyzIiQ?e=kd3mSE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ## Sprint 2
 >apresentação dos custos levantados na otimização do estoque e detalhamento do sistema de automatização.
