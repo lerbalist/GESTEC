@@ -114,7 +114,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Coleta de Dados 
 - [x] Esboço 3D
 - [x] Relatorio da Sprint
-- [ ] Apresentação em PPT
+- [x] Apresentação em PPT
       
 
 ## Sprint 2 - Desenvolvimento do Projeto
