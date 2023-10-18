@@ -31,8 +31,8 @@ Assim sendo, foi realizada uma visita técnica ao CCM – ITA pela equipe Gestec
 Sprints | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 31/08/2023 | concluido|  | 
-|01 | 11/10/2023 | em progresso | [Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%201/documento/S1%20-%20Relatorio.pdf) | 
-|02|  08/11/2023| a fazer |[Ver Relatório]() | 
+|01 | 11/10/2023 | concluido | [Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%201/documento/S1%20-%20Relatorio.pdf) | 
+|02|  08/11/2023| em progresso |[Ver Relatório]() | 
 |03| 29/11/2023 | a fazer|[Ver Relatório]() | 
 |Feira de Soluções| 12/12/2023 |a fazer |[Ver Relatório]() | 
 
@@ -80,7 +80,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 |Sprint|MVP|
 |-|-|
 |Sprint 1| Projeto em 3D de novo Layout que irá otimizar o tempo e espaço e uma otimização no sistema de estoque. |
-|Sprint 2| |
+|Sprint 2| Apresentação detalhada do sistema automatizado e das propostas de melhorias junto ao levantamento dos custos. |
 |Sprint 3| |
 
 ### Tecnologias Específicas/Apoio 
@@ -118,9 +118,13 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
       
 
 ## Sprint 2 - Desenvolvimento do Projeto
-- [ ] .
-- [ ] .
-- [ ] .
+- [ ] Definição da programação do estoque
+- [ ] Melhoria "carrinhos"
+- [ ] Levantamento de Custos
+- [ ] Fazer Power BI
+- [ ] Roteiro do vídeo
+- [ ] Relatorio da Sprint
+- [ ] Apresentação em PPT
       
 ## Sprint 3 - Implementação
 - [ ] .   
