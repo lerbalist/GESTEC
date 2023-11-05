@@ -32,7 +32,7 @@ Sprints | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 31/08/2023 | concluido|  | 
 |01 | 11/10/2023 | concluido | [Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%201/documento/S1%20-%20Relatorio.pdf) | 
-|02|  08/11/2023| em progresso |[Ver Relatório]() | 
+|02|  08/11/2023| em progresso |[Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%202/documento/SPRINT%202%20-%20Relatorio.pdf) | 
 |03| 29/11/2023 | a fazer|[Ver Relatório]() | 
 |Feira de Soluções| 12/12/2023 |a fazer |[Ver Relatório]() | 
 
@@ -118,13 +118,13 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
       
 
 ## Sprint 2 - Desenvolvimento do Projeto
-- [ ] Definição da programação do estoque
-- [ ] Melhoria "carrinhos"
-- [ ] Levantamento de Custos
+- [x] Definição da programação do estoque
+- [x] Melhoria "carrinhos"
+- [x] Levantamento de Custos
 - [ ] Fazer Power BI
-- [ ] Roteiro do vídeo
-- [ ] Relatorio da Sprint
-- [ ] Apresentação em PPT
+- [x] Roteiro do vídeo
+- [x] Relatorio da Sprint
+- [x] Apresentação em PPT
       
 ## Sprint 3 - Implementação
 - [ ] .   
