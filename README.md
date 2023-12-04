@@ -32,8 +32,8 @@ Sprints | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 31/08/2023 | concluido|  | 
 |01 | 11/10/2023 | concluido | [Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%201/documento/S1%20-%20Relatorio.pdf) | 
-|02|  08/11/2023| em progresso |[Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%202/documento/SPRINT%202%20-%20Relatorio.pdf) | 
-|03| 29/11/2023 | a fazer|[Ver Relatório]() | 
+|02|  08/11/2023| concluído |[Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%202/documento/SPRINT%202%20-%20Relatorio.pdf) | 
+|03| 29/11/2023 | em progresso |[Ver Relatório]() | 
 |Feira de Soluções| 12/12/2023 |a fazer |[Ver Relatório]() | 
 
 # Micro Certificações
@@ -81,7 +81,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 |-|-|
 |Sprint 1| Projeto em 3D de novo Layout que irá otimizar o tempo e espaço e uma otimização no sistema de estoque. |
 |Sprint 2| Apresentação detalhada do sistema automatizado e das propostas de melhorias junto ao levantamento dos custos. |
-|Sprint 3| |
+|Sprint 3| Entrega do sistema automatizado do estoque. |
 
 ### Tecnologias Específicas/Apoio 
 Até o momento.
@@ -127,9 +127,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Apresentação em PPT
       
 ## Sprint 3 - Implementação
-- [ ] .   
-- [ ] .
-- [ ] .
+- [x] Apresentação do sistema automatizado do estoque
+- [x] Relatorio da Sprint
+- [ ] . Apresentação em PPT
 
 # Competências desenvolvidas
 Além do próprio trabalho em equipe, a divisão de tarefas nos traz autonomia para conclusão e comprometimento para entrega. Temos o Trello ferramenta nova para alguns, que nos serve de apoio diário para atribuição das tarefas.
