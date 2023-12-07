@@ -61,7 +61,7 @@ O estudo de caso foi realizado pela equipe, onde foram verificadas dificuldades 
 Video Apresentação [clique aqui](https://fatecspgov-my.sharepoint.com/:v:/g/personal/leticia_brito7_fatec_sp_gov_br/EROMZdPxyNxMta9G2utG_J0BNxRU4g7L9sc_jmsOHyzIiQ?e=kd3mSE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ## Sprint 2
->apresentação dos custos levantados na otimização do estoque e detalhamento do sistema de automatização.
+>Apresentação dos custos levantados na otimização do estoque e detalhamento do sistema de automatização.
 
 ## Sprint 3
 >Entrega do sistema automatizado do estoque – trabalho realizado apenas sobre os eixos utilizados para manutenção.
@@ -86,7 +86,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ### Tecnologias Específicas/Apoio 
 Até o momento.
 
-![image](https://github.com/lerbalist/GESTEC/assets/142409605/92f972a7-aec1-4c4f-bcaf-55de30293df9)
+![image](https://github.com/lerbalist/GESTEC/blob/main/Sprint%202/imagem/mindset%20gpi.png)
 
 
 
@@ -106,6 +106,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Layout novo | Esboço em 3D |
 | Planilha Excel associada a Código de Barras | Imagens ilustrativas |
 | Custos | Valores |
+| Detalhamento do Sistema do Programa | Códigos e Funções da Programação |
 
 
 
@@ -162,7 +163,7 @@ A cada Sprint desenvolvemos mais de si e do projeto, crescendo pessoalmente e em
 | Proatividade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Responsabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Colaboração | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
 
 </details>
 
