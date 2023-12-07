@@ -63,9 +63,12 @@ Video Apresentação [clique aqui](https://fatecspgov-my.sharepoint.com/:v:/g/pe
 ## Sprint 2
 >Apresentação dos custos levantados na otimização do estoque e detalhamento do sistema de automatização.
 
+Video Apresentação [clique aqui]()
+
 ## Sprint 3
 >Entrega do sistema automatizado do estoque – trabalho realizado apenas sobre os eixos utilizados para manutenção.
 
+Video Apresentação [clique aqui]()
 
 ## Apresentação final (se necessario)
 Vídeo com a apresentação final da API do "semestre/ano"
