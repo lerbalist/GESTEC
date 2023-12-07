@@ -33,7 +33,7 @@ Sprints | Previsão | Status| Histórico|
 |Kick Off | 31/08/2023 | concluido|  | 
 |01 | 11/10/2023 | concluido | [Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%201/documento/S1%20-%20Relatorio.pdf) | 
 |02|  08/11/2023| concluído |[Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%202/documento/SPRINT%202%20-%20Relatorio.pdf) | 
-|03| 29/11/2023 | em progresso |[Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%203/documento/Sprint%203%20Relatorio.pdf) | 
+|03| 29/11/2023 | concluído |[Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%203/documento/Sprint%203%20Relatorio.pdf) | 
 |Feira de Soluções| 12/12/2023 |a fazer |[Ver Relatório]() | 
 
 # Micro Certificações
@@ -133,7 +133,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Sprint 3 - Implementação
 - [x] Apresentação do sistema automatizado do estoque
 - [x] Relatorio da Sprint
-- [ ] . Apresentação em PPT
+- [x] Apresentação em PPT
 
 # Competências desenvolvidas
 Além do próprio trabalho em equipe, a divisão de tarefas nos traz autonomia para conclusão e comprometimento para entrega. Temos o Trello ferramenta nova para alguns, que nos serve de apoio diário para atribuição das tarefas.
