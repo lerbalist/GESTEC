@@ -44,7 +44,7 @@ Futuramente
 </p>
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
+
 # ![image](https://github.com/lerbalist/GESTEC/assets/142409605/7a392f4c-98df-4875-85f1-0e1879feee75)
 
 
@@ -63,12 +63,12 @@ Video Apresentação [clique aqui](https://fatecspgov-my.sharepoint.com/:v:/g/pe
 ## Sprint 2
 >Apresentação dos custos levantados na otimização do estoque e detalhamento do sistema de automatização.
 
-Video Apresentação [clique aqui]()
+Video Apresentação [clique aqui](https://fatecspgov.sharepoint.com/:v:/r/sites/GESTEC-SoluesEmpresariais/Shared%20Documents/General/SPRINT%202/Apresenta%C3%A7%C3%A3o%20sprint%202.mp4?csf=1&web=1&e=7RuPo4)
 
 ## Sprint 3
 >Entrega do sistema automatizado do estoque – trabalho realizado apenas sobre os eixos utilizados para manutenção.
 
-Video Apresentação [clique aqui]()
+Video Apresentação [clique aqui](https://fatecspgov.sharepoint.com/:v:/r/sites/GESTEC-SoluesEmpresariais/Shared%20Documents/General/SPRINT%203/Apresenta%C3%A7%C3%A3o%20sprint%203.mp4?csf=1&web=1&e=hEy77q)
 
 ## Apresentação final (se necessario)
 Vídeo com a apresentação final da API do "semestre/ano"
@@ -125,7 +125,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Definição da programação do estoque
 - [x] Melhoria "carrinhos"
 - [x] Levantamento de Custos
-- [ ] Fazer Power BI
 - [x] Roteiro do vídeo
 - [x] Relatorio da Sprint
 - [x] Apresentação em PPT
@@ -149,9 +148,11 @@ A cada Sprint desenvolvemos mais de si e do projeto, crescendo pessoalmente e em
 | GitHub  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Trello | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 | Excel  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| PowerPoint | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Scrum | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Word | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| PowerPoint | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Scrum | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Mooble | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Python | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
  
 </details>
 
@@ -162,9 +163,9 @@ A cada Sprint desenvolvemos mais de si e do projeto, crescendo pessoalmente e em
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
 | Trabalho em Equipe | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Comunicação | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Proatividade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Responsabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Responsabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | Colaboração | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 
@@ -175,7 +176,7 @@ A cada Sprint desenvolvemos mais de si e do projeto, crescendo pessoalmente e em
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
 |Product Owner| Leticia Alves | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-alves-55016426b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lerbalist)|
-|Scrum Master| Mariana Gárcia | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gmarianam) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GMARIANAMARITNS)|
+|Scrum Master| Mariana Garcia | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gmarianam) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GMARIANAMARITNS)|
 |Team Member| Ana Beatriz | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abeaalmeida/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AnaBeatrizBarbosa)|
 |Team Member| Bianca Carvalho | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member| Hibathemark Sabino | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/hibasabino)|
