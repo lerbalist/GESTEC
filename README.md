@@ -140,24 +140,22 @@ Desenvolver um projeto usando tecnologia, nos traz também sempre um conheciment
 A cada Sprint desenvolvemos mais de si e do projeto, crescendo pessoalmente e em grupo também.
 
 ## Hard Skill (saber tecnológico)
-<details>
 <summary>Hard Skills desenvolvidas</summary>
   
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Trello | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Excel  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| PowerPoint | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Scrum | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Word | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Mooble | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Python | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+Tecnologia/Metodologia | Classificação 
+ ---------------------- | ------------- 
+| GitHub  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ 
+| Trello | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ 
+| Excel  | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ 
+| PowerPoint | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ 
+| Scrum | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ 
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ 
+| Mooble | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ 
+| Python | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ 
  
-</details>
 
 ## Soft Skill (saber comportamental)
-<details>
+
 <summary>Soft Skills desenvolvidas</summary>
 
 | Habilidades | Classificação |
@@ -168,8 +166,6 @@ A cada Sprint desenvolvemos mais de si e do projeto, crescendo pessoalmente e em
 | Responsabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | Colaboração | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
-
-</details>
 
 
 # Autores
