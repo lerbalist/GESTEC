@@ -30,11 +30,11 @@ Assim sendo, foi realizada uma visita técnica ao CCM – ITA pela equipe Gestec
 
 Sprints | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 31/08/2023 | concluido|  | 
-|01 | 11/10/2023 | concluido | [Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%201/documento/S1%20-%20Relatorio.pdf) | 
+|Kick Off | 31/08/2023 | concluído|  | 
+|01 | 11/10/2023 | concluído | [Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%201/documento/S1%20-%20Relatorio.pdf) | 
 |02|  08/11/2023| concluído |[Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%202/documento/SPRINT%202%20-%20Relatorio.pdf) | 
-|03| 29/11/2023 | concluído |[Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%203/documento/Sprint%203%20Relatorio.pdf) | 
-|Feira de Soluções| 12/12/2023 |a fazer |[Ver Relatório]() | 
+|03| 07/12/2023 | concluído |[Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%203/documento/Sprint%203%20Relatorio.pdf) | 
+|Feira de Soluções| 12/12/2023 |a fazer |[Ver Relatório](https://github.com/lerbalist/GESTEC/blob/main/Sprint%203/documento/Sprint%203%20Relatorio.pdf) | 
 
 # Micro Certificações
 Futuramente
