@@ -63,12 +63,12 @@ Video Apresentação [clique aqui](https://fatecspgov-my.sharepoint.com/:v:/g/pe
 ## Sprint 2
 >Apresentação dos custos levantados na otimização do estoque e detalhamento do sistema de automatização.
 
-Video Apresentação [clique aqui](https://fatecspgov.sharepoint.com/:v:/r/sites/GESTEC-SoluesEmpresariais/Shared%20Documents/General/SPRINT%202/Apresenta%C3%A7%C3%A3o%20sprint%202.mp4?csf=1&web=1&e=W4UR0J)
+Video Apresentação [clique aqui](https://youtu.be/qdIQEWeGT6Y)
 
 ## Sprint 3
 >Entrega do sistema automatizado do estoque – trabalho realizado apenas sobre os eixos utilizados para manutenção.
 
-Video Apresentação [clique aqui](https://fatecspgov.sharepoint.com/:v:/r/sites/GESTEC-SoluesEmpresariais/Shared%20Documents/General/SPRINT%203/Apresenta%C3%A7%C3%A3o%20sprint%203.mp4?csf=1&web=1&e=hEy77q)
+Video Apresentação [clique aqui](https://youtu.be/DqcKuIui2vQ)
 
 ## Apresentação Final
 
